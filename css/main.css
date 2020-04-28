@@ -50,6 +50,8 @@
 }
 
 
+
+
 .menu-btn {
   position: absolute;
   z-index: 3;
@@ -323,6 +325,7 @@ main {
     width: 10ch; } }
 
 @media screen and (min-width: 1171px) {
+  .resume.
   .projects {
     grid-template-columns: repeat(4, 1fr); } }
 
@@ -371,7 +374,10 @@ main {
       margin-top: 1rem;
       font-size: 4rem; }
   .projects {
-    grid-template-columns: 1fr; } }
+    grid-template-columns: 1fr; }
+  
+    
+  }
 
     .ltypebg{
       background: #000;
