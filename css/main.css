@@ -289,7 +289,8 @@ main {
 
 .btn-dark {
   background: black;
-  color: #fff; }
+  color: #fff;
+border-bottom: white 2px solid; }
 
 .btn-light {
   background: #c4c4c4;
